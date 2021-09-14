@@ -15,7 +15,7 @@ pandas to read data and perform operation, visualize data and analyze<br/>
 <hr>
  
 ### Files used
-olympics.ipynb -----> where codes are written for below questions with data visualization with bar graph <br/>
+olympics.ipynb -----> where codes are written for below questions with data visualization<br/>
 summer.csv ---------> it contains dataset of all olympics medal winners between 1896-2012 <hr>
 ### Questions Solved
 1. In how many cities Summer Olympics is held so far? <br/>

@@ -10,9 +10,8 @@ This repository is about Summer Olympics Data Analysis with data visualization b
 * medal they bagged (Gold, Silver or Bronze)
 
 <hr>
-Used 2 libraries pandas and numpy<br/>
-pandas to read data and perform operation<br/>
-numpy to visualize data<br/>
+Used pandas library <br/>
+pandas to read data and perform operation, visualize data and analyze<br/>
 <hr>
  
 ### Files used
